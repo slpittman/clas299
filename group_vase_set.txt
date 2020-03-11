@@ -1,0 +1,25 @@
+painter#beazely#museumId#shape#findSpot#subject#pleiades
+Euthymides#1#Munich 2307#Amphroae(typeA)#Vulci#A. Hector arming B. komos#413393
+Euthymides#2#Munich 2308#Amphroae(typeA)#Vulci#A. Thorykion arming B. athletes and trainer#413393
+Euthymides#3#Louvre G 44#Amphroae(typeA)#Vulci#A. Warrior mounting chariot B. woman, youth and man#413393
+Euthymides#4#Munich 2309#Amphroae(typeA)#Vulci#Unavliable#413393
+Euthymides#5#Paestum#Amphroae(typeA) fr.#Paestum#Komos#442733
+Euthymides#6#Syracuse 49305#Neck-Amphroae frr.#Monte Casale#A. Dinoysus(?) B. Hermes#Unknown
+Euthymides#7#Lourve C 11072#Neck-Amphroae#unknown#A. satyr B. satyr#Unknown
+Euthymides#8#Warsaw 142332#Neck-Amphroae#Unknown#A. youth pouring wine from a pointed amphora B. satyr#Unknown
+Euthymides#9#Lourve G 31#Pelike fr.#Unknown#A. two acontists B. jumper and discus-thrower#Unknown
+Euthymides#10#Serra Orlando#Volute-krater#Serra Orlando#A. Herakles and the Amazons B. symposion#462372
+Euthymides#11#Turin 4123#Psykter#Vulci#A. Wrestlers (Theseus and Klytos)#413393
+Euthymides#12#Bonn 70#Hydriai#Nola#Unavliable#432981
+Euthymides#13#Frankfort, Mus.V.F#Hydriai#Unknown#Women at fountain, and satyr(two naked women at a laver, a satyr lying on the ground touching one of them; a woman filling her hydria at the lion-head spout)#NA
+Euthymides#14#Vatican G. 71#Hydriai#Vulci#Unavliable#413393
+Euthymides#15#Leningrad 624#Hydriai#Unknown#Dionysos seated with satyr and maenad#Unknown
+Euthymides#16#Orvieto, Faina, 68#Hydriai#Orvieto#Dionysos seated and two satyrs#Unknown
+Euthymides#17#Athens, Agora, P 4683 and P 4744#cylindroid#Athens#Apollo with Artemis, Leto, and another#579885
+Euthymides#18#Adria Bc 64.10#plate#Adria#warrior#unknown
+Euthymides#19#Florence 7 B 2; Boston 10.203; London 1952. 12-2.7; Naples, Astarita 121#cup#unknown#outside, A, deities in Olympus, B or A and B, birth of Athena#unknown
+Euthymides#20#Athens Acr. 211#cup#Athens#gigantomachy#579885
+Manner of Euthymides#1#lost#hydria#unknown#naked woman at fountain#unknown
+Manner of Euthymides#2#Agrigento#rhyton#Agrigento#above, male reclining, with males and ram. below: A, komast; B, komast#462086
+Manner of Euthymides#3#Boston 13.193#plate#Cumae#satyr#432808
+Manner of Euthymides#4#Villa Giulia#cup#unknown#A, symposion#Unknown
