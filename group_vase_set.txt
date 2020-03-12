@@ -1,4 +1,3 @@
-painter#beazely#museumId#shape#findSpot#subject#pleiades
 Euthymides#1#Munich 2307#Amphroae(typeA)#Vulci#A. Hector arming B. komos#413393
 Euthymides#2#Munich 2308#Amphroae(typeA)#Vulci#A. Thorykion arming B. athletes and trainer#413393
 Euthymides#3#Louvre G 44#Amphroae(typeA)#Vulci#A. Warrior mounting chariot B. woman, youth and man#413393
